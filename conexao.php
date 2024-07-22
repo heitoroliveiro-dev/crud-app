@@ -2,7 +2,7 @@
     //aplicando as informações de conexão em constantes
     $host="localhost";
     $user="root";
-    $password="8332";
+    $password="123";
     $database="estudantes";
 
     //realizando a conexao com o banco de dados
