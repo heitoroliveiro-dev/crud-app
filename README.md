@@ -17,3 +17,5 @@ The ADD button opens a modal with a form to be filled out by the user, which sen
 Buttons were added for 'update' and 'delete' functions, both using $query and $result=mysqli($conn, $query);
 
 This is my first project, and I am open to criticism and suggestions. Feel free to collaborate.
+
+![crud](https://github.com/user-attachments/assets/99c3f288-af85-49d4-9356-07ea53ba970c)
